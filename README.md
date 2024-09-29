@@ -22,4 +22,9 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ## About Stream For Yall
 
+This is a streaming web app with various features.
+Streaming, Chatting, Fans System, Comunity...
+
 ![Stream1](https://github.com/user-attachments/assets/1d6fd149-402e-4fd7-abb5-742027fc5a29)
+![StreamPage](https://github.com/user-attachments/assets/58f97b8c-6b93-455a-836e-8b5a53f42868)
+![Stream2](https://github.com/user-attachments/assets/54b46bc2-05ab-4ce6-959d-cf4efdd71800)
